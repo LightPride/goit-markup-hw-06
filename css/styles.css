@@ -874,7 +874,7 @@ padding-top: 27px;
   color: var(--fourth-color);
 }
 
-.footer-title {
+.footer-soc-title {
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
@@ -939,7 +939,7 @@ padding-top: 27px;
   
 }
 
-.footer-field {
+.subscribe-form-field {
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -947,7 +947,7 @@ padding-top: 27px;
   
 }
 
-.footer-field label {
+.subscribe-form-field label {
 font-weight: 700;
 font-size: 14px;
 line-height: 1.71;
@@ -957,7 +957,7 @@ color: var(--first-color);
 margin-bottom: 20px;
 }
 
-.footer-field input {
+.subscribe-form-field input {
   padding-left: 16px;
   height: 50px;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -986,7 +986,7 @@ margin-bottom: 20px;
 }
 
 
-.footer-form-icon {
+.subscribe-form-icon {
   fill: var(--first-color);
   margin-left: 10px;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1)
